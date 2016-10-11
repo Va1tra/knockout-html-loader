@@ -1,0 +1,28 @@
+{
+  "name": "knockout-html-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for converting html to js instructions that can be used as knockout templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Va1tra/knockout-html-loader.git"
+  },
+  "keywords": [
+    "knockout",
+    "template",
+    "html",
+    "loader"
+  ],
+  "author": "va1tra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Va1tra/knockout-html-loader/issues"
+  },
+  "homepage": "https://github.com/Va1tra/knockout-html-loader#readme",
+  "dependencies": {
+    "xmldom": "^0.1.22"
+  }
+}
