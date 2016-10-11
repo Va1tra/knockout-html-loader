@@ -4,7 +4,7 @@ Webpack loader for converting html to js instructions that can be used as knocko
 <h2>Install</h2>
 
 ```bash
-npm i knockout-template-loader
+npm i knockout-html-loader
 ```
 
 <h2>Example</h2>
@@ -15,7 +15,7 @@ npm i knockout-template-loader
     loaders: [
       {
         test: /\.html$/,
-        loader: "knockout-template"
+        loader: "knockout-html"
       }
     ]
   }
